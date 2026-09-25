@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Capybara CLO Kernel 6.2
+kernel.string=SuperKernel by fred @ wtc2
 do.devicecheck=0
 do.modules=0
 do.systemless=0
